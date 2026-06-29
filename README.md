@@ -20,6 +20,7 @@ Tasks performed
 Step 1-  Data Cleaning and Preparation 
 Step 2-  Descriptive Behavior Analysis 
 Step 3- Customer Segmentation and Profiling
+Step 4- Dashboard and Visualization
 
 Short Summary Insights
 
